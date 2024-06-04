@@ -1,6 +1,6 @@
 /*
 ** Função :
-** Autor : Maysa de Lima Maciel
+** Autor : Maysa de Lima Maciel, Turma A
 ** Data : 30/05/2024
 ** Observações:
 */
